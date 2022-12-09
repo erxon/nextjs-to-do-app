@@ -1,0 +1,42 @@
+.p {
+    margin-bottom: 0;
+    font-size: 11px;
+    font-weight: bold;
+}
+.h3 {
+    margin-top: 0;
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+.calendar {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 8px #d9d9d9;
+}
+.calendarHead {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.iconButton {
+    margin: 10px;
+}
+.calendarRow {
+    display: flex;
+    padding-right: 14px;
+    padding-left: 14px;
+    justify-content: space-around;
+}
+.calendarColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.calendarCell {
+    text-align: center;
+    margin: 5px;
+}
+  

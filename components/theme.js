@@ -8,7 +8,8 @@ const theme = createTheme({
         }
     },
     typography: {
-        fontFamily: 'Roboto'
+        fontFamily: 'Roboto',
+        fontSize: 12
     }
 });
 
